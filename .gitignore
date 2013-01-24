@@ -1,0 +1,5 @@
+log/*
+tags
+vendor/bundle/
+.bundle/
+config/database.yml
